@@ -1,0 +1,4 @@
+/data
+waveglow_256channels_ljs_v2.pt
+trained_model.pth
+glow.py
